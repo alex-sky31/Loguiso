@@ -1,6 +1,8 @@
 import React, { Suspense } from "react";
 // @ts-ignore
+/*
 import SamsungSubmit from "../../../asset/sam.m4v";
+*/
 
 function work() {
   return (
@@ -13,7 +15,7 @@ function work() {
       </div>
       <div className="flex md:flex-row flex-col w-full h-full gap-x-10">
         <div className="md:w-1/2 w-full flex flex-col md:px-0 px-2">
-          <Suspense fallback={<div>Loading...</div>}>
+          {/*<Suspense fallback={<div>Loading...</div>}>
             <video
               src={SamsungSubmit}
               preload="auto"
@@ -22,7 +24,7 @@ function work() {
               controls={true}
               className="w-full h-auto max-h-[574.56px] object-cover rounded-lg"
             />
-          </Suspense>
+          </Suspense>*/}
           <div className="text-white mt-5 font-poppins font-medium text-3xl text-center md:text-left">
             VIDEO
           </div>
