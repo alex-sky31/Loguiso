@@ -7,7 +7,6 @@ import VideBg from "../../asset/bg.mp4";
 
 import GlobalHeader from "../components/GlobalHeader/globalHeader";
 // @ts-ignore
-import SamsungSubmit from "../../asset/sam.m4v";
 import Loading from "../components/Loading/loading";
 
 const LogoListBand = React.lazy(
