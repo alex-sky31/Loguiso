@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Loguiso/static/css/main.1bfe9da5.css",
-    "main.js": "/Loguiso/static/js/main.306da7a2.js",
+    "main.js": "/Loguiso/static/js/main.adcfded5.js",
     "static/js/589.cdaaec87.chunk.js": "/Loguiso/static/js/589.cdaaec87.chunk.js",
     "static/js/958.c6b4bead.chunk.js": "/Loguiso/static/js/958.c6b4bead.chunk.js",
     "static/js/685.2b6d200b.chunk.js": "/Loguiso/static/js/685.2b6d200b.chunk.js",
@@ -22,7 +22,7 @@
     "static/media/messikaLogo2.png": "/Loguiso/static/media/messikaLogo2.2b50c7724f2a163eb615.png",
     "index.html": "/Loguiso/index.html",
     "main.1bfe9da5.css.map": "/Loguiso/static/css/main.1bfe9da5.css.map",
-    "main.306da7a2.js.map": "/Loguiso/static/js/main.306da7a2.js.map",
+    "main.adcfded5.js.map": "/Loguiso/static/js/main.adcfded5.js.map",
     "589.cdaaec87.chunk.js.map": "/Loguiso/static/js/589.cdaaec87.chunk.js.map",
     "958.c6b4bead.chunk.js.map": "/Loguiso/static/js/958.c6b4bead.chunk.js.map",
     "685.2b6d200b.chunk.js.map": "/Loguiso/static/js/685.2b6d200b.chunk.js.map",
@@ -31,6 +31,6 @@
   },
   "entrypoints": [
     "static/css/main.1bfe9da5.css",
-    "static/js/main.306da7a2.js"
+    "static/js/main.adcfded5.js"
   ]
 }
