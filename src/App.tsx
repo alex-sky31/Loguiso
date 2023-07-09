@@ -8,7 +8,7 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 function App() {
   const router = createBrowserRouter([
     {
-      path: "/MGPorfolio",
+      path: "/Loguiso",
       element: <HomePage />,
     },
     {
