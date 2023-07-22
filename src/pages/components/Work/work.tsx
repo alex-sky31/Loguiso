@@ -1,10 +1,11 @@
 import React, { Suspense } from "react";
+import Loading from '../Loading/loading'
+
 // @ts-ignore
-/*
-import SamsungSubmit from "../../../asset/sam.m4v";
-*/
+import CardiXMessika from "../../../asset/CardiXMessika.mov";
 
 function work() {
+  console.log()
   return (
     <div className="w-full md:px-[100px] flex flex-col">
       <div
@@ -15,16 +16,16 @@ function work() {
       </div>
       <div className="flex md:flex-row flex-col w-full h-full gap-x-10">
         <div className="md:w-1/2 w-full flex flex-col md:px-0 px-2">
-          {/*<Suspense fallback={<div>Loading...</div>}>
+          <Suspense fallback={<Loading/>}>
             <video
-              src={SamsungSubmit}
+              src={CardiXMessika}
               preload="auto"
               autoPlay={true}
               loop
               controls={true}
-              className="w-full h-auto max-h-[574.56px] object-cover rounded-lg"
+              className="w-full h-auto max-h-[574.56px] object-fit rounded-lg"
             />
-          </Suspense>*/}
+          </Suspense>
           <div className="text-white mt-5 font-poppins font-medium text-3xl text-center md:text-left">
             VIDEO
           </div>
@@ -35,14 +36,14 @@ function work() {
               <div>
                 <img
                   className="h-full max-w-full rounded-lg object-cover"
-                  src="https://flowbite.s3.amazonaws.com/docs/gallery/square/image-1.jpg"
+                  src={require("../../../asset/work1.jpg")}
                   alt=""
                 />
               </div>
               <div>
                 <img
                   className="h-full max-w-full rounded-lg object-cover"
-                  src="https://flowbite.s3.amazonaws.com/docs/gallery/square/image-2.jpg"
+                  src={require("../../../asset/work2.jpg")}
                   alt=""
                 />
               </div>

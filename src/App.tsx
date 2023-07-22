@@ -1,5 +1,4 @@
 import "./App.css";
-
 import HomePage from "./pages/home/homePage";
 
 import React from "react";

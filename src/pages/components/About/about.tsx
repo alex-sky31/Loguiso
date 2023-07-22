@@ -9,7 +9,7 @@ function about() {
       <div className="w-full flex h-[70vh] ">
         <img
           className="w-full h-[90%] rounded-3xl object-contain"
-          src={require("../../../asset/mg.jpg")}
+          src={require("../../../asset/aboutMg.jpeg")}
           color="white"
           loading="lazy"
           alt={"Balmain"}
