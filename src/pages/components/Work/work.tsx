@@ -2,7 +2,7 @@ import React, { Suspense } from "react";
 import Loading from '../Loading/loading'
 
 // @ts-ignore
-import CardiXMessika from "../../../asset/CardiXMessika.mov";
+import CardiXMessika from "../../../asset/CardiMessika.mov";
 
 function work() {
   console.log()

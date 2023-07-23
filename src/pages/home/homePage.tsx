@@ -1,16 +1,16 @@
-import React, { Suspense, useEffect, useState } from "react";
+import React, { Suspense, useState } from "react";
 import "./homePage.css";
 import classNames from "classnames";
 
 // Import the functions you need from the SDKs you need
 import { initializeApp } from "firebase/app";
 import { getAnalytics } from "firebase/analytics";
-import { getStorage, ref, listAll, getDownloadURL, StorageReference } from 'firebase/storage';
+import { getStorage } from 'firebase/storage';
 import Work from "../components/Work/work"
 
 
 // @ts-ignore
-import VideBg from "../../asset/VideoSite.mov";
+import VideBg from "../../asset/VideoSiteHome.mov";
 
 import GlobalHeader from "../components/GlobalHeader/globalHeader";
 // @ts-ignore
