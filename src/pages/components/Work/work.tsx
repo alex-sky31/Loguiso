@@ -1,9 +1,6 @@
 import React, { Suspense } from "react";
 import Loading from '../Loading/loading'
 
-// @ts-ignore
-import CardiXMessika from "../../../asset/CardiMessika.mov";
-
 function work() {
   console.log()
   return (
@@ -17,14 +14,13 @@ function work() {
       <div className="flex md:flex-row flex-col w-full h-full gap-x-10">
         <div className="md:w-1/2 w-full flex flex-col md:px-0 px-2">
           <Suspense fallback={<Loading/>}>
-            <video
-              src={CardiXMessika}
-              preload="auto"
-              autoPlay={true}
-              loop
-              controls={true}
-              className="w-full h-auto max-h-[574.56px] object-fit rounded-lg"
-            />
+            <iframe
+              className="w-full h-full"
+              src="https://player.vimeo.com/video/850839871?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+              allow="autoplay;"
+              title="CardiMessika">
+
+            </iframe>
           </Suspense>
           <div className="text-white mt-5 font-poppins font-medium text-3xl text-center md:text-left">
             VIDEO
