@@ -1,35 +1,35 @@
 {
   "files": {
-    "main.css": "/Loguiso/static/css/main.1bfe9da5.css",
-    "main.js": "/Loguiso/static/js/main.c4a66381.js",
+    "main.css": "/Loguiso/static/css/main.ef0d1758.css",
+    "main.js": "/Loguiso/static/js/main.3ff902d2.js",
     "static/js/589.cdaaec87.chunk.js": "/Loguiso/static/js/589.cdaaec87.chunk.js",
     "static/js/958.c6b4bead.chunk.js": "/Loguiso/static/js/958.c6b4bead.chunk.js",
-    "static/js/685.2b6d200b.chunk.js": "/Loguiso/static/js/685.2b6d200b.chunk.js",
-    "static/js/408.52c53589.chunk.js": "/Loguiso/static/js/408.52c53589.chunk.js",
+    "static/js/685.6a04181e.chunk.js": "/Loguiso/static/js/685.6a04181e.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Loguiso/static/js/787.1ed0c42c.chunk.js",
     "static/media/Inesa.jpg": "/Loguiso/static/media/Inesa.bce048a79e1f08133eed.jpg",
     "static/media/psg.jpg": "/Loguiso/static/media/psg.06bfa7a890c1c66e3b73.jpg",
     "static/media/Melissa.jpg": "/Loguiso/static/media/Melissa.cf3f2f35c6baadf683b3.jpg",
     "static/media/Messika.jpg": "/Loguiso/static/media/Messika.20d4854520e083961e09.jpg",
     "static/media/Babee.jpg": "/Loguiso/static/media/Babee.2eb29f6f36ed955150a1.jpg",
+    "static/media/work1.jpg": "/Loguiso/static/media/work1.51ed6b7127ce6866e2f0.jpg",
+    "static/media/aboutMg.jpeg": "/Loguiso/static/media/aboutMg.fecee726fbc21091d2bf.jpeg",
+    "static/media/work2.jpg": "/Loguiso/static/media/work2.7b6039ad93b0b8fedb80.jpg",
     "static/media/Nicolas.jpg": "/Loguiso/static/media/Nicolas.72ee57ff92d6bc0eb378.jpg",
-    "static/media/mg.jpg": "/Loguiso/static/media/mg.e3998d2a221fd3d7f482.jpg",
     "static/media/babee-logo.png": "/Loguiso/static/media/babee-logo.b30073d50ad11f40f0bd.png",
     "static/media/speakeasy.png": "/Loguiso/static/media/speakeasy.710c070b51c5c1db11ca.png",
     "static/media/volangeLogo.png": "/Loguiso/static/media/volangeLogo.0bbede01cc163ea04b29.png",
     "static/media/Samsung-Logo.png": "/Loguiso/static/media/Samsung-Logo.1816b3bdc3c27254d829.png",
     "static/media/messikaLogo2.png": "/Loguiso/static/media/messikaLogo2.2b50c7724f2a163eb615.png",
     "index.html": "/Loguiso/index.html",
-    "main.1bfe9da5.css.map": "/Loguiso/static/css/main.1bfe9da5.css.map",
-    "main.c4a66381.js.map": "/Loguiso/static/js/main.c4a66381.js.map",
+    "main.ef0d1758.css.map": "/Loguiso/static/css/main.ef0d1758.css.map",
+    "main.3ff902d2.js.map": "/Loguiso/static/js/main.3ff902d2.js.map",
     "589.cdaaec87.chunk.js.map": "/Loguiso/static/js/589.cdaaec87.chunk.js.map",
     "958.c6b4bead.chunk.js.map": "/Loguiso/static/js/958.c6b4bead.chunk.js.map",
-    "685.2b6d200b.chunk.js.map": "/Loguiso/static/js/685.2b6d200b.chunk.js.map",
-    "408.52c53589.chunk.js.map": "/Loguiso/static/js/408.52c53589.chunk.js.map",
+    "685.6a04181e.chunk.js.map": "/Loguiso/static/js/685.6a04181e.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Loguiso/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1bfe9da5.css",
-    "static/js/main.c4a66381.js"
+    "static/css/main.ef0d1758.css",
+    "static/js/main.3ff902d2.js"
   ]
 }
